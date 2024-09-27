@@ -1,14 +1,16 @@
-<h1> <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Electron 1 -->
-  <circle cx="50" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
-  <!-- Electron 2 -->
-  <circle cx="150" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
-  <!-- Path (representing orbit or movement) -->
-  <line x1="50" y1="100" x2="150" y2="100" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
-  <!-- Text -->
-  <text x="40" y="90" fill="black">e⁻</text>
-  <text x="140" y="90" fill="black">e⁻</text>
-</svg> This is Sarbajit...
+<h1> <div align="center">
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Electron 1 -->
+    <circle cx="50" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
+    <!-- Electron 2 -->
+    <circle cx="150" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
+    <!-- Path (representing orbit or movement) -->
+    <line x1="50" y1="100" x2="150" y2="100" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
+    <!-- Text -->
+    <text x="40" y="90" fill="black">e⁻</text>
+    <text x="140" y="90" fill="black">e⁻</text>
+  </svg>
+</div> This is Sarbajit...
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" /></a>
 </h1>
