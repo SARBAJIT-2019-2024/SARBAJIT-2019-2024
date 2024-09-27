@@ -1,8 +1,6 @@
-<h1>This is Sarbajit...
+<h1>  This is Sarbajit...
 <br/>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" /></a>
 </h1>
 
 <img src="https://your-hosted-animated-svg.svg" alt="Electron Orbit" />
