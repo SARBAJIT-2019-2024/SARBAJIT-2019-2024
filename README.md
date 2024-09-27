@@ -1,0 +1,53 @@
+<h1> 👨‍🔬 This is Sarbajit...
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" /></a>
+</h1>
+
+Hi! I’m a passionate theoretical physicist starting my Ph.D. at Julius-Maximilians-Universität Würzburg, Germany, in Theoretische Physik I, in November 2024. I recently completed my MSc in Physics at the National Institute of Science Education and Research (NISER), Bhubaneswar, specialising in non-Hermitian systems, topological phases, and quantum condensed matter physics. My research interests span topological superconductivity, quantum transport, and the fascinating behaviour of emergent quantum phenomena in low-dimensional systems.
+
+---
+
+### 🎓 Academic Background
+- **Ph.D. Student** (starting November 2024)  
+  Julius-Maximilians-Universität Würzburg, Germany  
+  *Theoretische Physik I, Condensed Matter Theory Group of Dr. Ronny Thomale*
+  
+- **M.Sc. in Physics** (2019-2024)  
+  National Institute of Science Education and Research (NISER), Bhubaneswar, Odisha, India  
+  *Specialization: Theoretical Condensed Matter Physics,*
+  *CGPA: 9.37/10 (2nd in the department)*
+  
+
+---
+
+### 🧑‍🔬 Research Interests & Current Projects
+- **Non-Hermitian Physics**  
+  Exploring topological phases and anomalous pumping in non-Hermitian systems, particularly the Rice-Mele model, with a focus on adiabatic protocols and edge state dynamics.  
+  [Preprint](https://arxiv.org/abs/2110.06797)
+  
+- **Quantum Transport in Condensed Matter**  
+  I am investigating the effects of quasi-flat bands in Andreev reflection and transport phenomena in condensed matter systems, collaborating on projects related to quantum transport theory.
+
+---
+
+### 💻 Languages & Tools
+<div style="display: flex; flex-direction: row;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height=40 width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=40 width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=40 />
+</div>
+
+- **Programming Languages**: Python, Mathematica  
+- **Tools & Software**: Jupyter, LaTeX, Git, Linux  
+- **Techniques**: Tight-binding models, Diagonalization methods, Exact Diagonalization, Density Matrix Renormalization Group (DMRG)
+
+---
+
+### 📚 Selected Publications & Preprints
+- *Anomalous Pumping in the non-Hermitian Rice-Mele Model* - [Preprint](https://arxiv.org/abs/2110.06797)  
+- *Effect of Quasi-flat Bands in Andreev Reflection and Quantum Transport* (Ongoing Project)
+
+---
