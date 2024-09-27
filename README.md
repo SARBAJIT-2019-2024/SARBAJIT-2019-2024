@@ -5,7 +5,8 @@
 </a>
 </h1>
 
-![Electron Orbit](https://path-to-your-electron-orbit.gif)
+<img src="https://your-hosted-animated-svg.svg" alt="Electron Orbit" />
+
 
 
 Hi! I’m a passionate theoretical physicist starting my Ph.D. at Julius-Maximilians-Universität Würzburg, Germany, in Theoretische Physik I, in November 2024. I recently completed my 5 years Integrated M.Sc. in Physics at the National Institute of Science Education and Research (NISER), Bhubaneswar, specialising in non-Hermitian systems, topological phases, and quantum condensed matter physics. My research interests span Strongly correlated systems, topological superconductivity, quantum transport, and the fascinating behaviour of emergent quantum phenomena in low-dimensional systems.
