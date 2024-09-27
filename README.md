@@ -1,18 +1,24 @@
-<h1> <div align="center">
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Electron 1 -->
-    <circle cx="50" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
-    <!-- Electron 2 -->
-    <circle cx="150" cy="100" r="10" stroke="black" stroke-width="2" fill="blue" />
-    <!-- Path (representing orbit or movement) -->
-    <line x1="50" y1="100" x2="150" y2="100" stroke="black" stroke-width="2" stroke-dasharray="5,5"/>
-    <!-- Text -->
-    <text x="40" y="90" fill="black">e⁻</text>
-    <text x="140" y="90" fill="black">e⁻</text>
+<h1 style="position: relative; display: inline-block;">  
+  This is Sarbajit...
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" />
+  </a>
+  <svg height="100" width="100" style="position: absolute; top: -40px; left: -50px;">
+    <!-- Orbit Path -->
+    <circle cx="50" cy="50" r="40" stroke="gray" stroke-width="2" fill="none"/>
+    <!-- Electron -->
+    <circle cx="90" cy="50" r="5" fill="blue">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="rotate"
+        from="0 50 50" 
+        to="360 50 50" 
+        dur="3s" 
+        repeatCount="indefinite"/>
+    </circle>
   </svg>
-</div> This is Sarbajit...
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=Theoretical+Physicist_;Condensed+Matter+Researcher_;Topologically+Protected;" alt="Typing SVG" /></a>
 </h1>
 
 Hi! I’m a passionate theoretical physicist starting my Ph.D. at Julius-Maximilians-Universität Würzburg, Germany, in Theoretische Physik I, in November 2024. I recently completed my 5 years Integrated M.Sc. in Physics at the National Institute of Science Education and Research (NISER), Bhubaneswar, specialising in non-Hermitian systems, topological phases, and quantum condensed matter physics. My research interests span Strongly correlated systems, topological superconductivity, quantum transport, and the fascinating behaviour of emergent quantum phenomena in low-dimensional systems.
