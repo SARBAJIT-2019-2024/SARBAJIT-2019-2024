@@ -8,7 +8,7 @@ Hi! I’m a passionate theoretical physicist starting my Ph.D. at Julius-Maximil
 ---
 
 ### 🎓 Academic Background
-- **Ph.D. Student** (starting November 2024)  
+- **Ph.D. Student**  
   Julius-Maximilians-Universität Würzburg, Germany  
   *Theoretische Physik I, Condensed Matter Theory Group of Dr. Ronny Thomale*
   
